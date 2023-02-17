@@ -4,7 +4,7 @@
 # Packages
 
 ## Backend
-- bcryptjs : This module enables storing of passwords as hashed passwords instead of plaintext.
+- [bcryptjs](https://www.npmjs.com/package/bcryptjs) : This module enables storing of passwords as hashed passwords instead of plaintext.
 - cors : node.js package for providing a Connect/Express middleware that can be used to enable CORS with various options.
 - dotenv : Dotenv is a that loads environment variables from a .env file.
 - express : Web framework for Node.js.
